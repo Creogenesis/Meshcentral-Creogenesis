@@ -4,7 +4,6 @@
 
 [About](#about)  
 [Documentation](#documentation)  
-[Video Tutorials](#video-tutorials)  
 [Feedback](#feedback)  
 [License](#license)
 
