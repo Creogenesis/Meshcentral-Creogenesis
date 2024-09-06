@@ -16,28 +16,6 @@ MeshCentral is a full computer management web site. With MeshCentral, you can ru
 
 The [Design and Architecture Guide](https://meshcentral.com/docs/MeshCentral2DesignArchitecture.pdf) is a short document that includes information on the design overview, dependencies, source code descriptions of each file, certificates, TLS security, the agent to server handshake, browser to agent relay and WebRTC and the messenger service.
 
-## Video Tutorials
-You can watch many tutorial videos on the [MeshCentral YouTube Channel](https://www.youtube.com/channel/UCJWz607A8EVlkilzcrb-GKg/videos). Two videos to get started involve installation and basic usages.
-
-Installing MeshCentral on Windows, Linux and macOS.  
-[![MeshCentral - Installation](https://img.youtube.com/vi/GsQbWZmRRAU/mqdefault.jpg)](https://www.youtube.com/watch?v=GsQbWZmRRAU)
-
-Basic Usages including installing the agent and remote desktop, terminal and file access.  
-[![MeshCentral - Basics](https://img.youtube.com/vi/D9Q7M7PdTg0/mqdefault.jpg)](https://www.youtube.com/watch?v=D9Q7M7PdTg0)
-
-MeshCentral support for two-factor authentication.  
-[![MeshCentral - Two Factor Authentication](https://img.youtube.com/vi/luLZKcma9l0/mqdefault.jpg)](https://www.youtube.com/watch?v=luLZKcma9l0)
-
-How to setup MeshCentral with the NGINX reverse proxy.  
-[![MeshCentral - NGINX Reverse Proxy](https://img.youtube.com/vi/YSmiLyKSX2I/mqdefault.jpg)](https://www.youtube.com/watch?v=YSmiLyKSX2I)
-
-Installing and using the MeshCentral Android agent.  
-[![MeshCentral - Android](https://img.youtube.com/vi/wi1HYdW00Bk/mqdefault.jpg)](https://www.youtube.com/watch?v=wi1HYdW00Bk)
-
-Using MeshCentral Router to port map TCP connections.  
-[![MeshCentral - Basics](https://img.youtube.com/vi/BubeVRmbCRM/mqdefault.jpg)](https://www.youtube.com/watch?v=BubeVRmbCRM)
-
-
 ## Feedback
 If you encounter a problem or have a suggestion to improve the product, you may file an [issue report](https://github.com/Creogenesis/Meshcentral-Creogenesis/issues/)
 
@@ -54,3 +32,4 @@ If you are having issues with the following other products, you should file a re
 
 ## License
 This software is licensed under [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0).
+Yevhenii Kutsenko
